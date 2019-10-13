@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.header {
+  height: 100px;
+  background-color: #99badd;
+  color: #002266;
+  margin-bottom: 0px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  height: 40px;
+  background-color: #99badd;
+  color: #002266;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
